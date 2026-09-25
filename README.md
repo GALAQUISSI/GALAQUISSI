@@ -7,7 +7,7 @@ Gosto de aprender desenvolvendo sistemas que possam resolver problemas do mundo 
 • Data&Analysis 
 • Solving Problems
 • Machine Learning 
-
+• Web Development
 
 
 ## Tecnologias
